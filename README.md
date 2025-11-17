@@ -87,11 +87,6 @@ A complete machine learning project from data cleaning → modeling → API depl
   <a href="mailto:rafly.ramadan.ai@gmail.com">
     <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://YOUR-PORTFOLIO.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 <p align="center"><i>AI isn’t magic — it’s just math, compute, and a lot of debugging.</i></p>
