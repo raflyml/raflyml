@@ -1,109 +1,91 @@
-<h1 align="center">Hi, I'm Rafly</h1>
-<p align="center"><strong>AI Engineer | Machine Learning & Computer Vision Specialist</strong></p>
+<h1 align="center">Hey, I'm Rafly 👋</h1>
+<p align="center"><strong>AI Engineer • Machine Learning Enthusiast • Computer Vision Builder</strong></p>
 
 ---
 
-## About Me
+## 👨‍💻 Who Am I?
 
-I am an AI Engineer with strong experience in developing end-to-end machine learning systems, particularly in **computer vision**, **deep learning**, and **production-ready model deployment**. My work focuses on building reliable, scalable, and efficient AI solutions that drive measurable impact.
+I’m an AI Engineer who loves turning data, code, and experiments into real, usable systems.  
+My day-to-day includes training deep learning models, building computer vision pipelines, and exploring how AI can solve real problems (and occasionally break my GPU 😅).
 
-I am continuously exploring advancements in modern AI—ranging from **LLMs**, **efficient model architectures**, to **optimization techniques** for real-world deployment.
-
----
-
-## Core Competencies
-
-### Machine Learning & Deep Learning
-- Model development with **PyTorch**, **TensorFlow**, and **Scikit-learn**
-- Training pipelines, hyperparameter tuning, experiment tracking
-- Model optimization: quantization, pruning, distillation
-
-### Computer Vision
-- Object detection (YOLO family), image classification, segmentation
-- Dataset preprocessing, augmentation, and annotation workflows
-- Real-time and mobile-ready CV models
-
-### Backend & Deployment
-- Serving models via **FastAPI** and **Flask**
-- Dockerization, REST API development
-- Basic MLOps workflows and CI/CD integration
-
-### Programming & Data
-- Python, SQL, JavaScript
-- Data engineering fundamentals: ETL, feature engineering, data validation
-- Version control with Git/GitHub
+I enjoy working on projects that combine **science, engineering, and creativity** — from experimenting with new architectures to deploying models into products that people actually use.
 
 ---
 
-## Technical Stack
+## 🚀 What I’m Good At
 
-**AI & ML Frameworks**  
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" />
-</p>
+### 🤖 Machine Learning & AI
+- Deep learning with **PyTorch** & **TensorFlow**
+- Experiment design, tuning, & evaluation  
+- Playing with model optimization just for fun
 
-**Computer Vision Tools**  
-<p>
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square" />
-  <img src="https://img.shields.io/badge/OpenCV-27338E?style=flat-square&logo=opencv&logoColor=white" />
-</p>
+### 🖼 Computer Vision
+- Object detection with **YOLO** (all species 🟡)
+- Image classification, segmentation
+- Real-time and mobile-ready CV setups
 
-**Backend & DevOps**  
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
+### 🛠 Development & Deployment
+- Building APIs with **FastAPI** / **Flask**
+- Containerized workflows (Docker)
+- Light MLOps + automation
 
-**Programming Languages**  
+### 🧩 Other Things I Use
+- Python, SQL, JavaScript  
+- Git/GitHub  
+- ONNX, OpenCV, Streamlit  
+
+---
+
+## 🧰 Tech Stack
+
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
 
-## Featured Projects
+## 📦 Featured Projects
 
-- **End-to-End Calorie Tracking System (CV-based)**  
-  YOLO + MobileNet–based food recognition and calorie estimation system with dashboard, water-intake tracking, and external dataset generalization.
+### 🍱 AI Calorie Tracker (Computer Vision)
+Food detection app using YOLO + MobileNet to estimate calories, complete with dashboard & hydration tracking.
 
-- **Real-Time Object Detection Pipeline**  
-  Optimized deployment of YOLO models for mobile and IoT environments using ONNX Runtime and TensorRT.
+### 🎯 Real-Time Detection System  
+Optimized YOLO pipeline for speed & efficiency — runs smoothly on low-power devices.
 
-- **ML Pipeline for Tabular Prediction**  
-  Complete workflow including feature engineering, modeling, evaluation, and API deployment.
+### 📊 Tabular ML Pipeline  
+A complete machine learning project from data cleaning → modeling → API deployment.
 
-*(More projects available on my repositories.)*
+*(More fun stuff in my repos.)*
 
 ---
 
-## GitHub Analytics
+## 📈 GitHub Stats (Because Why Not)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raflyml&show_icons=true&theme=default&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raflyml&theme=default&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raflyml&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raflyml&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raflyml&layout=compact&theme=default&hide_border=true&langs_count=8" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raflyml&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 ---
 
-## Get in Touch
+## 🌐 Find Me Online
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+<p>
+  <a href="https://www.linkedin.com/in/rafly-ramadan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="rafly.ramadan.ai@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://YOUR-PORTFOLIO.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -112,4 +94,5 @@ I am continuously exploring advancements in modern AI—ranging from **LLMs**, *
 
 ---
 
-<p align="center"><i>Building reliable AI systems, one model at a time.</i></p>
+<p align="center"><i>AI isn’t magic — it’s just math, compute, and a lot of debugging.</i></p>
+<p align="center"><i>But I enjoy every part of it.</i></p>
