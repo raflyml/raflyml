@@ -84,7 +84,7 @@ A complete machine learning project from data cleaning → modeling → API depl
   <a href="https://www.linkedin.com/in/rafly-ramadan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="rafly.ramadan.ai@gmail.com">
+  <a href="mailto:rafly.ramadan.ai@gmail.com">
     <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://YOUR-PORTFOLIO.com" target="_blank">
