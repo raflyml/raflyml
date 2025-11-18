@@ -1,38 +1,46 @@
 <h1 align="center">Hey, I'm Rafly 👋</h1>
 <p align="center"><strong>AI Engineer • Machine Learning Enthusiast • Computer Vision Builder</strong></p>
+<p align="center">
+  <em>Turning models into real-world systems — one experiment (and bug) at a time.</em>
+</p>
 
 ---
 
-## 👨‍💻 Who Am I?
+## 👨‍💻 About Me
 
 I’m an AI Engineer who loves turning data, code, and experiments into real, usable systems.  
-My day-to-day includes training deep learning models, building computer vision pipelines, and exploring how AI can solve real problems (and occasionally break my GPU 😅).
+Most of my time is spent training deep learning models, building computer vision pipelines, and exploring how AI can solve real problems (and occasionally break my GPU 😅).
 
-I enjoy working on projects that combine **science, engineering, and creativity** — from experimenting with new architectures to deploying models into products that people actually use.
+I enjoy working on things that combine **science, engineering, and creativity** — from experimenting with new architectures to deploying models into products that people actually use.
+
+- 🔭 Currently building & experimenting with **computer vision–driven apps**
+- 🧠 Interested in **efficient deep learning**, **edge AI**, and **model deployment**
+- 🤝 Open to collaboration on **ML / CV / MLOps** projects
+- 🌏 Based in Indonesia (`UTC+7`)
 
 ---
 
-## 🚀 What I’m Good At
+## 🚀 What I Do
 
 ### 🤖 Machine Learning & AI
 - Deep learning with **PyTorch** & **TensorFlow**
-- Experiment design, tuning, & evaluation  
-- Playing with model optimization just for fun
+- Experiment design, hyperparameter tuning & evaluation  
+- Model optimization, pruning, and inference tweaking (sometimes just for fun)
 
 ### 🖼 Computer Vision
-- Object detection with **YOLO** (all species 🟡)
-- Image classification, segmentation
-- Real-time and mobile-ready CV setups
+- Object detection with **YOLO** (multiple variants 🟡)
+- Image classification & segmentation
+- Real-time & mobile-ready computer vision systems
 
 ### 🛠 Development & Deployment
-- Building APIs with **FastAPI** / **Flask**
-- Containerized workflows (Docker)
-- Light MLOps + automation
+- Backend & inference APIs with **FastAPI** / **Flask**
+- Containerized workflows with **Docker**
+- Light **MLOps**, automation, and experiment tracking
 
-### 🧩 Other Things I Use
-- Python, SQL, JavaScript  
-- Git/GitHub  
-- ONNX, OpenCV, Streamlit  
+### 🧩 Other Tools I Use
+- Languages: **Python**, **SQL**, **JavaScript**  
+- Libraries & tools: **OpenCV**, **ONNX**, **Streamlit**
+- Version control: **Git / GitHub**
 
 ---
 
@@ -53,19 +61,28 @@ I enjoy working on projects that combine **science, engineering, and creativity*
 ## 📦 Featured Projects
 
 ### 🍱 AI Calorie Tracker (Computer Vision)
-Food detection app using YOLO + MobileNet to estimate calories, complete with dashboard & hydration tracking.
+Food detection app using **YOLO + MobileNet** to estimate calories, with:
+- Multi-class food detection
+- Estimated calories per serving
+- Visual dashboard & **hydration tracking**
 
 ### 🎯 Real-Time Detection System  
-Optimized YOLO pipeline for speed & efficiency — runs smoothly on low-power devices.
+Optimized **YOLO pipeline** for speed & efficiency:
+- Runs on **low-power / edge devices**
+- Real-time inference setup
+- Lightweight preprocessing & postprocessing
 
 ### 📊 Tabular ML Pipeline  
-A complete machine learning project from data cleaning → modeling → API deployment.
+End-to-end ML project:
+- Data cleaning & feature engineering  
+- Model training & evaluation  
+- Serving via **REST API** for integration into apps
 
-*(More fun stuff in my repos.)*
+> 🔍 More projects & experiments are available in my repositories.
 
 ---
 
-## 📈 GitHub Stats (Because Why Not)
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raflyml&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
@@ -87,7 +104,12 @@ A complete machine learning project from data cleaning → modeling → API depl
   <a href="mailto:rafly.ramadan.ai@gmail.com">
     <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.kaggle.com/raflyramadan" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 <p align="center"><i>AI isn’t magic — it’s just math, compute, and a lot of debugging.</i></p>
-<p align="center"><i>But I enjoy every part of it.</i></p>
+<p align="center"><i>And I enjoy every part of it.</i></p>
